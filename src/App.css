@@ -1,3 +1,21 @@
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-style: normal;
+    src: url(./assets/fonts/poppins-v20-latin-regular.ttf);
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-style: normal;
+    src: url(./assets/fonts/poppins-v20-latin-500.ttf);
+}
+@font-face {
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-style: normal;
+    src: url(./assets/fonts/poppins-v20-latin-700.ttf);
+}
 *{
     margin: 0;
     padding: 0;
