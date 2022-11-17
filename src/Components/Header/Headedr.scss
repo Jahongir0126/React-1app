@@ -30,7 +30,14 @@ header {
         &:hover {
             color: #ffffff
         }
-
+        &__active{
+            text-decoration: none;
+            color: #ffffff;
+            border-bottom: 3px solid white;
+            &:hover{
+                color: #ffffffc0;
+            }
+        }
     }
 
     &__button {
