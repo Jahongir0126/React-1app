@@ -1,5 +1,5 @@
 import React from 'react'
-import './Section1.scss'
+import './Hero.scss'
 import Card from '../Card/Card'
 import Card_img1 from '../../assets/images/card1.png'
 import Card_img2 from '../../assets/images/card2.png'
@@ -9,7 +9,7 @@ import Card_img5 from '../../assets/images/card5.png'
 import Card_img6 from '../../assets/images/card6.png'
 import Card_img7 from '../../assets/images/card7.png'
 
-export default function Section1() {
+export default function Hero() {
   return (
     <>
         <section>

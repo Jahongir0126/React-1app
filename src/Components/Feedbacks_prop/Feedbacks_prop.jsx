@@ -1,4 +1,4 @@
-import './Feedbacks.scss'
+import './Feedbacks_prop.scss'
 
 export default function Comment(props) {
   return (

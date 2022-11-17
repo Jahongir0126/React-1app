@@ -1,7 +1,7 @@
 import React from 'react';
-import './Section2.scss';
-import Feedback from '../Feedbacks/Feedbacks';
-import Count from '../Feedbacks/Count';
+import './Feedback.scss';
+import Feedback from '../Feedbacks_prop/Feedbacks_prop';
+import Count from '../Feedbacks_prop/Count';
 import Person1 from '../../assets/images/persons_photo1.png'
 import Person2 from '../../assets/images/persons_photo2.png'
 import Person3 from '../../assets/images/persons_photo3.png'
